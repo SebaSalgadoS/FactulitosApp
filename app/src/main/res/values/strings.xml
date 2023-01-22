@@ -2,4 +2,15 @@
     <string name="app_name">Factulitos App</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- pantalla formulario -->
+    <string name="numero_factura">Ingrese numero de factura</string>
+    <string name="productor">Ingrese productor</string>
+    <string name="chofer">Ingrese nombre del chofer</string>
+    <string name="patente">Ingrese la patente del camion</string>
+    <string name="rut_chofer">Ingrese rut del chofer</string>
+    <string name="guardar">Guardar</string>
+    <string name="crear_formulario">Crear formulario</string>
+
+
 </resources>
